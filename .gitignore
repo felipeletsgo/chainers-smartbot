@@ -1,0 +1,21 @@
+.aider*
+
+# Local credentials and session data
+config.txt
+cookie.txt
+discord.txt
+bot_config.txt
+
+# Runtime state and logs
+cfb_history.json
+logs/
+*.log
+api.missions.txt
+posts.atualizados.txt
+
+# Generated binaries and local backups
+*.exe
+backup_*/
+
+# Local tool settings
+.claude/
