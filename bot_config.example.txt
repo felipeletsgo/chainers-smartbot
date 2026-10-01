@@ -1,0 +1,14 @@
+# Configuração avançada opcional do SmartBot Chainers.
+# Copie para bot_config.txt e ajuste conforme necessário.
+
+UPDATE_INTERVAL=600
+MIN_PROFIT_MARGIN=10.0
+AUTO_DEPOSIT=true
+MIN_RESERVE=0
+MIN_FOOD_STOCK=2
+PREFER_HIGH_RARITY=false
+DEBUG_MODE=false
+MAX_RETRIES=4
+
+# CSRF_TOKEN e RAW_COOKIE são preenchidos/atualizados durante a execução.
+
