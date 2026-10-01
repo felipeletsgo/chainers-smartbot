@@ -1,0 +1,4 @@
+# Cole aqui o JWT do Chainers.io (deve começar com eyJ).
+# Nunca versione o arquivo config.txt real.
+SEU_TOKEN_JWT_AQUI
+
