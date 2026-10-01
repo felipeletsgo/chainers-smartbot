@@ -1,0 +1,4 @@
+# Opcional: URL do webhook do Discord.
+# Nunca versione o arquivo discord.txt real.
+https://discord.com/api/webhooks/SEU_WEBHOOK_AQUI
+
